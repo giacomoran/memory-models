@@ -1,0 +1,14 @@
+---
+title: "Preprocess Swift data"
+output: html_notebook
+---
+
+```{r}
+
+library(tidyverse)
+library(tidymodels)
+library(lubridate)
+
+```
+
+TODO
